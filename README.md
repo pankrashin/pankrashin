@@ -22,4 +22,11 @@ const skills = {
     devops: ['Ansible', 'Docker', 'Git', 'Kubernetes'],
     platforms: ['AWS', 'Vercel'],
 };
+
+const config = {
+    os: 'macos',
+    terminal: 'ghostty',
+    editor: 'neovim'
+};
 ```
+
