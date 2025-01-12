@@ -19,7 +19,7 @@ const skills = {
     frontend: ['React', 'Tailwind CSS', 'Vite', 'Redux'],
     backend: ['PHP', 'Laravel', 'Next.js', 'Ruby on Rails'],
     databases: ['SQLite', 'MySQL', 'PostgreSQL', 'MongoDB', 'Redis'],
-    devops: ['Git', 'Docker', 'Kubernetes'],
+    devops: ['Ansible', 'Docker', 'Git', 'Kubernetes'],
     platforms: ['AWS', 'Vercel'],
 };
 ```
