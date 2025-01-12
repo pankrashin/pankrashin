@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🛠️ Technical Stack
 ```javascript
 const skills = {
     languages: ['C++', 'JavaScript', 'Python', 'TypeScript', 'Ruby', 'Rust', 'Swift', 'Go'],
