@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 🛠️ Technical Stack
+```javascript
+const skills = {
+    languages: ['C++', 'JavaScript', 'Python', 'TypeScript', 'Ruby', 'Rust', 'Swift', 'Go'],
+    frontend: ['React', 'Tailwind CSS', 'Vite'],
+    backend: ['PHP', 'Laravel', 'Next.js', 'Ruby on Rails'],
+    databases: ['SQLite', 'MySQL', 'PostgreSQL', 'MongoDB', 'Redis'],
+    devops: ['Docker', 'Kubernetes'],
+    platforms: ['AWS', 'Vercel'],
+};
+```
