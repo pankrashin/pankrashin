@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ```javascript
 const skills = {
     languages: ['C++', 'JavaScript', 'Python', 'TypeScript', 'Ruby', 'Rust', 'Swift', 'Go'],
-    frontend: ['React', 'Tailwind CSS', 'Vite'],
+    frontend: ['React', 'Tailwind CSS', 'Vite', 'Redux'],
     backend: ['PHP', 'Laravel', 'Next.js', 'Ruby on Rails'],
     databases: ['SQLite', 'MySQL', 'PostgreSQL', 'MongoDB', 'Redis'],
     devops: ['Docker', 'Kubernetes'],
