@@ -24,9 +24,9 @@ const skills = {
 };
 
 const config = {
-    os: 'macos',
-    terminal: 'ghostty',
-    editor: 'neovim'
+    os: 'macOS / NixOS',
+    terminal: 'Ghostty',
+    editor: 'Neovim'
 };
 ```
 
