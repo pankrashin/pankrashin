@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 const skills = {
     languages: ['C++', 'JavaScript', 'Python', 'TypeScript', 'Ruby', 'Rust', 'Swift', 'Go'],
     frontend: ['React', 'Tailwind CSS', 'Vite', 'Redux', 'Webpack'],
-    backend: ['PHP', 'WordPress', 'Next.js', 'Ruby on Rails'],
+    backend: ['PHP', 'WordPress', 'Next.js', 'Ruby on Rails', 'Axum'],
     databases: ['SQLite', 'MySQL', 'PostgreSQL', 'MongoDB', 'Redis'],
     devops: ['Ansible', 'Docker', 'Git', 'Kubernetes'],
     platforms: ['AWS', 'Vercel'],
