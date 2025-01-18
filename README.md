@@ -15,16 +15,16 @@ Here are some ideas to get you started:
 
 ```javascript
 const skills = {
-    languages: ['C++', 'JavaScript', 'Python', 'TypeScript', 'Ruby', 'Rust', 'Swift', 'Go'],
-    frontend: ['React', 'Tailwind CSS', 'Vite', 'Redux', 'Webpack'],
-    backend: ['PHP', 'WordPress', 'Next.js', 'Ruby on Rails', 'Axum'],
-    databases: ['SQLite', 'MySQL', 'PostgreSQL', 'MongoDB', 'Redis'],
+    languages: ['C++', 'Go', 'JavaScript', 'Python', 'Ruby', 'Rust', 'Swift', 'TypeScript'],
+    frontend: ['React', 'Redux', 'Tailwind CSS', 'Vite', 'Webpack'],
+    backend: ['Axum', 'Next.js', 'PHP', 'Ruby on Rails', 'WordPress'],
+    databases: ['MongoDB', 'MySQL', 'PostgreSQL', 'Redis', 'SQLite'],
     devops: ['Ansible', 'Docker', 'Git', 'Kubernetes'],
     platforms: ['AWS', 'Vercel'],
 };
 
 const config = {
-    os: 'macOS / NixOS',
+    os: ['macOS', 'NixOS'],
     terminal: 'Ghostty',
     editor: 'Neovim'
 };
