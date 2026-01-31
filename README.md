@@ -2,7 +2,6 @@
 
 📍 **Germany**
 
-![Objective-C](https://img.shields.io/badge/Objective--C-%233A95E3.svg?style=flat-square&logo=apple&logoColor=white)
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=flat-square&logo=rust&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
